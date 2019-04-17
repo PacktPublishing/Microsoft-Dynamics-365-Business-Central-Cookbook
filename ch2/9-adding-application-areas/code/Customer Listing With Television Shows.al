@@ -18,7 +18,6 @@ report 50101 "Customer Listing With TV Shows"
             {
                 DataItemLinkReference = Customer;
                 DataItemLink = "Customer No." = field ("No.");
-                PrintOnlyIfDetail = true;
 
                 column(TelevisionShowCode; "Television Show Code")
                 {
