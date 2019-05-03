@@ -1,0 +1,25 @@
+{
+  "id": "69bdf3df-7ab8-4600-8661-dace20d3b0e0",
+  "name": "AL Telemetry Project",
+  "publisher": "Default publisher",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+  "idRange": {
+    "from": 50130,
+    "to": 50130
+  },
+  "runtime": "2.3",
+  "showMyCode": true,
+  "target": "Internal"
+}
