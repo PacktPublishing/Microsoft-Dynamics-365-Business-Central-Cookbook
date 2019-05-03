@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "parent"
+		},
+		{
+			"path": "child"
+		}
+	],
+	"settings": {}
+}

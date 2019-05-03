@@ -1,0 +1,24 @@
+{
+  "id": "c5c7fc1e-a0c4-4e16-b4eb-f1b4db2b34c9",
+  "name": "AL Child Project",
+  "publisher": "Default publisher",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+  "idRange": {
+    "from": 50125,
+    "to": 50149
+  },
+  "runtime": "2.3",
+  "showMyCode": true
+}

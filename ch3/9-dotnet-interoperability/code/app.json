@@ -1,0 +1,25 @@
+{
+  "id": "afe6f6c0-18e3-412f-b142-453e91605818",
+  "name": "AL DotNet Project",
+  "publisher": "Default publisher",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+  "idRange": {
+    "from": 50145,
+    "to": 50149
+  },
+  "runtime": "2.3",
+  "showMyCode": true,
+  "target": "Internal"
+}
