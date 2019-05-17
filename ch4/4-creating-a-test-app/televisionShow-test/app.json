@@ -1,0 +1,35 @@
+{
+  "id": "57f1e70e-974b-49b6-89ad-bd443d7c9804",
+  "name": "Television Show Test",
+  "publisher": "Default publisher",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [
+    {
+      "appId": "0e8ea749-edf6-4a29-a396-018ae7aca20a",
+      "name": "ALProject1",
+      "publisher": "Default publisher",
+      "version": "1.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+  "idRange": {
+    "from": 50150,
+    "to": 50199
+  },
+  "runtime": "2.3",
+  "showMyCode": true,
+  "features": [
+    "TranslationFile"
+  ],
+  "test": "13.0.0.0"
+}
