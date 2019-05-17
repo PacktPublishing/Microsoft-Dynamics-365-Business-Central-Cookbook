@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Television Show Test">
+    <body>
+      <group id="body">
+        <trans-unit id="Page 2883015646 - Action 3231472904 - Method 1377591017 - NamedType 750120336" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Test confirmation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page UI Handler Test - Action ConfirmTest - Method OnAction - NamedType ConfirmQst</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
