@@ -23,3 +23,7 @@ page 50108 "License Input Dialog"
         exit(LicenseText);
     end;
 }
+
+
+
+

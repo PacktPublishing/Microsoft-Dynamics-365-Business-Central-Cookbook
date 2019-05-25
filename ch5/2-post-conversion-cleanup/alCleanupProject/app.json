@@ -1,0 +1,24 @@
+{
+  "id": "36ad0969-5a5e-405d-a424-dfa8cc2486ef",
+  "name": "AL Cleanup Project",
+  "publisher": "Default publisher",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+  "idRange": {
+    "from": 50000,
+    "to": 50099
+  },
+  "runtime": "2.3",
+  "showMyCode": true
+}
