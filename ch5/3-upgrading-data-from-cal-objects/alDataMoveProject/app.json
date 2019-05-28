@@ -1,0 +1,24 @@
+{
+  "id": "96c50169-2ed5-483d-9aaa-ebab2a9f7636",
+  "name": "AL Data Move Project",
+  "publisher": "Default publisher",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+  "idRange": {
+    "from": 50010,
+    "to": 50099
+  },
+  "runtime": "2.3",
+  "showMyCode": true
+}
