@@ -1,0 +1,24 @@
+{
+  "id": "b7c0f32f-d751-4904-9d44-2ec8516b7f83",
+  "name": "Converted CAL Solution",
+  "publisher": "Default publisher",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+  "idRange": {
+    "from": 50000,
+    "to": 50099
+  },
+  "runtime": "2.3",
+  "showMyCode": true
+}
