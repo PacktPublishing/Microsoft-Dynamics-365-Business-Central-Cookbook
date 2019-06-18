@@ -11,7 +11,7 @@ $navdockerimage = 'microsoft/bcsandbox:ca'
 
 # the user you use to login to the Business Central client (is a SUPER user)
 $userName = "admin"
-$password = "Pass@word1"
+$password = ConvertTo-SecureString -String "Pass@word1" -AsPlainText -Force
 
 # set the secure Url to your Business Central license file (leave blank to use the demo license)
 $licenseFileUri = ''
