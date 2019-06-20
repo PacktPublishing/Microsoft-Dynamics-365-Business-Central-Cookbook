@@ -7,7 +7,7 @@ $accept_eula = $false
 $containername = ''
 
 # set image to use to create container (see here for available images: https://hub.docker.com/_/microsoft-businesscentral-sandbox﻿)
-$navdockerimage = 'microsoft/bcsandbox:ca'
+$bcDockerImage = 'mcr.microsoft.com/businesscentral/sandbox:us'
 
 # the user you use to login to the Business Central client (is a SUPER user)
 $userName = "admin"
@@ -30,5 +30,5 @@ New-NavContainer -accept_eula:$accept_eula `
                  -updateHosts `
                  -assignPremiumPlan `
                  -shortcuts Desktop `
-                 -imageName $navdockerimage `
+                 -imageName $bcdockerimage `
                  -useBestContainerOS
