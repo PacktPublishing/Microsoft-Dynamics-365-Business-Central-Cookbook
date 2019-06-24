@@ -1,0 +1,24 @@
+{
+  "id": "c9c6d7dc-1bce-414f-8758-5c1266e7e2e2",
+  "name": "Azure Function Project",
+  "publisher": "Default publisher",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+  "idRange": {
+    "from": 50000,
+    "to": 50099
+  },
+  "runtime": "2.3",
+  "showMyCode": true
+}
