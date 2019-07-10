@@ -1,0 +1,424 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="ALProject1">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 2502664837 - Field 4190130733 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Customer Television Show - Field Customer No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2502664837 - Field 2025947974 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Television Show Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Customer Television Show - Field Television Show Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2502664837 - Field 2640982432 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Favorite</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Customer Television Show - Field Favorite - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1824430726 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Simple Task Result - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1824430726 - Field 788098029 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DateTime Task Last Ran</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Simple Task Result - Field DateTime Task Last Ran - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2284537497 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Television Cue - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2284537497 - Field 1090351696 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Active</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Television Cue - Field Active - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2284537497 - Field 293070022 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Finished</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Television Cue - Field Finished - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1285955370 - Field 2025947974 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Television Show Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Television Show Episode - Field Television Show Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1285955370 - Field 3195955360 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Episode ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Television Show Episode - Field Episode ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1285955370 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Television Show Episode - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1285955370 - Field 722776286 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Season No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Television Show Episode - Field Season No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1285955370 - Field 4258587026 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Episode No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Television Show Episode - Field Episode No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1285955370 - Field 1911879346 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Air Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Television Show Episode - Field Air Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1285955370 - Field 2166945456 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Summary</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Television Show Episode - Field Summary - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 393954388 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Television Show Setup - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 393954388 - Field 3747780893 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Finished Assisted Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Television Show Setup - Field Finished Assisted Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 186848873 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Television Show - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 186848873 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Television Show - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 186848873 - Field 2828066374 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Synopsis</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Television Show - Field Synopsis - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 186848873 - Field 513339096 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Active,Finished</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Television Show - Field Status - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 186848873 - Field 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Television Show - Field Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 186848873 - Field 2618067539 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>First Aired</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Television Show - Field First Aired - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 186848873 - Field 3548415827 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last Aired</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Television Show - Field Last Aired - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 186848873 - Field 2369664869 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Created By</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Television Show - Field Created By - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 186848873 - Field 1858960424 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TVMaze ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Television Show - Field TVMaze ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 186848873 - Method 636966148 - NamedType 283221364" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 cannot be earlier than %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Television Show - Method VerifyDates - NamedType FirstAiredDateCannotBeLaterErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 689950487 - Method 1045226379 - NamedType 999912645" size-unit="char" translate="yes" xml:space="preserve">
+          <source>There is no favorite television show for Customer %1.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Check Cust. Television Shows - Method ValidateFavoriteShowExists - NamedType NoFavoriteShowErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 386289799 - Method 2799468450 - NamedType 1304771032" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer %1 has no television shows. Do you want to set some up?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Customer Card Notification - Method ShowCustomerCardNotification - NamedType NotificationMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 386289799 - Method 2799468450 - NamedType 1767515955" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Yes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Customer Card Notification - Method ShowCustomerCardNotification - NamedType ActionYesTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1256344119 - Method 3982846710 - NamedType 2152914028" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CUSTWITHSHOWS</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Customers With Shows Filter - Method OnAfterMakeTextFilter - NamedType CustWithShowsTokenTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3973225155 - Method 2888944061 - NamedType 750842532" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Episode information has successfully been downloaded.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Download Episode Information - Method ShowSuccessMessage - NamedType SuccessMessageTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3973225155 - Method 3665591570 - NamedType 823878488" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You must populate the %1 before you can download episodes.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Download Episode Information - Method DownloadEpisodes - NamedType MissingIdErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3973225155 - Method 3665591570 - NamedType 1803812000" size-unit="char" translate="yes" xml:space="preserve">
+          <source>An error ocurred when trying to get the episodes:\\%1:\\%2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Download Episode Information - Method DownloadEpisodes - NamedType RequestErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3973225155 - Method 3665591570 - NamedType 1534096655" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The response is not formatted correctly.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Download Episode Information - Method DownloadEpisodes - NamedType WrongFormatErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3973225155 - Method 816029031 - NamedType 196306074" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cannot find the following key: %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Download Episode Information - Method GetJsonToken - NamedType CannotFindKeyErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2410098442 - Method 3692920275 - NamedType 3177803720" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Television Shows should be part of Essential in order for the application to work.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Enable TV Application Area - Method OnValidateApplicationAreas - NamedType InvalidErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3499835849 - Method 2333434299 - NamedType 547813873" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Television Show Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Register Manual Setups - Method OnRegisterBusinessSetup - NamedType TelevisionShowSetupNameTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3499835849 - Method 2333434299 - NamedType 1706602578" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Set up television show application.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Register Manual Setups - Method OnRegisterBusinessSetup - NamedType TelevisionShowSetupDescriptionTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3499835849 - Method 2333434299 - NamedType 323339638" size-unit="char" translate="yes" xml:space="preserve">
+          <source>television, show, tv, setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Register Manual Setups - Method OnRegisterBusinessSetup - NamedType KeyWordsTxt</note>
+        </trans-unit>
+        <trans-unit id="Page 3077846191 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enter the license text</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page License Input Dialog - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 3077846191 - Control 3716857762 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enter license:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page License Input Dialog - Control LicenseText - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1062199129 - Control 556371910 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Task last ran:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Scheduled Tasks Example - Control TaskLastRan - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1961747419 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Load Television Shows</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Load Television Shows Wizard - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1961747419 - Control 1121962313 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Load Television Shows Wizard - Control StandardBanner - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1961747419 - Control 300852202 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Load Television Shows Wizard - Control FinishedBanner - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1961747419 - Control 3800514526 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Welcome to the Television Shows application!</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Load Television Shows Wizard - Control Welcome - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1961747419 - Control 835495069 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Load Television Shows Wizard - Control Welcome1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1961747419 - Control 835495069 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This wizard will let you select which genre of television shows we should load for sample data.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Load Television Shows Wizard - Control Welcome1 - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 1961747419 - Control 926340698 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Let's go!</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Load Television Shows Wizard - Control LetsGo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1961747419 - Control 813725049 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Load Television Shows Wizard - Control LetsGo1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1961747419 - Control 813725049 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Press Next to continue.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Load Television Shows Wizard - Control LetsGo1 - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 1961747419 - Control 4156972860 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Load Television Shows Wizard - Control step2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1961747419 - Control 4156972860 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Select the genre(s) of television shows you want to load.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Load Television Shows Wizard - Control step2 - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 1961747419 - Control 554694645 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Comedy</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Load Television Shows Wizard - Control Genre1Selected - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1961747419 - Control 926229196 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Drama</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Load Television Shows Wizard - Control Genre2Selected - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1961747419 - Control 3206118147 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Family</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Load Television Shows Wizard - Control Genre3Selected - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1961747419 - Action 2438272767 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Back</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Load Television Shows Wizard - Action ActionBack - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1961747419 - Action 914282563 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Next</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Load Television Shows Wizard - Action ActionNext - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1961747419 - Action 3259912055 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Finish</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Load Television Shows Wizard - Action ActionFinish - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1961747419 - Method 2473849161 - NamedType 3277061344" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You did not select any genres so no data will be loaded. Are you sure you want to exit?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Load Television Shows Wizard - Method TestGenresSelected - NamedType NothingSelectedConfirmLbl</note>
+        </trans-unit>
+        <trans-unit id="Page 638786482 - Method 1976523759 - NamedType 522008610" size-unit="char" translate="yes" xml:space="preserve">
+          <source>None found</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Television Control AddIn Fctbx - Method GetFavoriteTelevisionShow - NamedType NoneFoundLbl</note>
+        </trans-unit>
+        <trans-unit id="Page 638786482 - Method 2727531799 - NamedType 804924266" size-unit="char" translate="yes" xml:space="preserve">
+          <source>https://www.thetvdb.com/search?q=</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Television Control AddIn Fctbx - Method MakeTvdbUrl - NamedType UrlBase</note>
+        </trans-unit>
+        <trans-unit id="Page 239977290 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Television Activities</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Television RC Activities - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1554913981 - Action 1313897311 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Television Shows</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Television Role Center - Action Television Show List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1554913981 - Action 2901867346 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customers</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Television Role Center - Action Customer List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1554913981 - Action 2859009388 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Television Role Center - Action NewCustomer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1554913981 - Action 3670851155 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Television Shows</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Television Role Center - Action Television Show Report - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1667904994 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>tvshows</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Televison Show API - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4119282485 - Action 3665591570 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Download Episode Information</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Television Show Card - Action DownloadEpisodes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4119282485 - Action 877172447 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Episodes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Television Show Card - Action TelevisionShowEpisodes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3921857303 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Episodes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Television Show Episodes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3493210208 - Method 559092897 - NamedType 1556380518" size-unit="char" translate="yes" xml:space="preserve">
+          <source>License successfully stored</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Television Show Setup Card - Method SetLicenseInStorage - NamedType SuccessMsg</note>
+        </trans-unit>
+        <trans-unit id="Page 3493210208 - Method 559092897 - NamedType 2409802479" size-unit="char" translate="yes" xml:space="preserve">
+          <source>License could not be stored</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Television Show Setup Card - Method SetLicenseInStorage - NamedType FailureErr</note>
+        </trans-unit>
+        <trans-unit id="Page 3493210208 - Method 559092897 - NamedType 1737111550" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You must provide a valid license</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Television Show Setup Card - Method SetLicenseInStorage - NamedType MustNotBeBlankErr</note>
+        </trans-unit>
+        <trans-unit id="Page 3493210208 - Method 424630902 - NamedType 1556380518" size-unit="char" translate="yes" xml:space="preserve">
+          <source>License retrieved: %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Television Show Setup Card - Method GetLicenseFromStorage - NamedType SuccessMsg</note>
+        </trans-unit>
+        <trans-unit id="Page 3493210208 - Method 424630902 - NamedType 2409802479" size-unit="char" translate="yes" xml:space="preserve">
+          <source>License could not be retrieved</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Television Show Setup Card - Method GetLicenseFromStorage - NamedType FailureErr</note>
+        </trans-unit>
+        <trans-unit id="Page 3493210208 - Method 485969323 - NamedType 1179087241" size-unit="char" translate="yes" xml:space="preserve">
+          <source>There is an existing license stored. Are you sure you want to replace it?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Television Show Setup Card - Method DeleteExistingLicense - NamedType PromptToDeleteMsg</note>
+        </trans-unit>
+        <trans-unit id="Page 3493210208 - Method 4131330645 - NamedType 4164512303" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LIC</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Television Show Setup Card - Method GetLicenseStorageKey - NamedType LicenseStorageKey</note>
+        </trans-unit>
+        <trans-unit id="Report 176728298 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Listing With Television Shows</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Customer Listing With TV Shows - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4272835675 - Control 638786482 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Favorite Television Show</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CustomerCardExtension - Control Television Control AddIn Fctbx - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 532148173 - Field 740162112 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Television Shows</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Application Area Setup Ext - Field Television Shows - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2333538111 - Field 780402315 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Television Viewing Country</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CustomerExtension - Field Television Viewing Country - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

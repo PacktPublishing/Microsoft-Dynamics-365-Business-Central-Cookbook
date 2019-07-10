@@ -1,0 +1,80 @@
+trigger:
+  branches:
+    include:
+    - master
+
+pool:
+  name: televisionShow-local
+
+workspace:
+  clean: all
+
+variables:
+  containerName: build
+  containerUserName: admin
+  containerPassword: Pass@word1
+  imageName: mcr.microsoft.com/businesscentral/sandbox:us
+  agentFolder: $env:agentfolder
+
+steps:
+- task: PowerShell@2
+  displayName: 'Install NavContainerHelper'
+  inputs:
+    targetType: inline
+    errorActionPreference: stop
+    failOnStderr: true
+    script: 
+        Write-Host "Installing NavContainerHelper"
+        Install-Module -Name navcontainerhelper -Force
+
+- task: PowerShell@2
+  displayName: 'Create Build Container'
+  inputs:
+    targetType: inline
+    errorActionPreference: stop
+    failOnStderr: true
+    script:
+      New-NavContainer -containerName $(containerName) `
+        -accept_eula `
+        -accept_outdated `
+        -auth NavUserPassword `
+        -Credential (New-Object pscredential $(containerUserName), (ConvertTo-SecureString -String $(containerPassword) -AsPlainText -Force)) `
+        -doNotExportObjectsToText `
+        -imageName $(imageName)  `
+        -alwaysPull `
+        -shortcuts None `
+        -restart no `
+        -updateHosts `
+        -useBestContainerOS `
+        -assignPremiumPlan `
+        -additionalParameters @("--volume ""$($env:Agent_HomeDirectory):C:\Agent""")
+
+- task: PowerShell@2
+  displayName: 'Build AL application'
+  inputs:
+    targetType: inline
+    errorActionPreference: stop
+    failOnStderr: true
+    script: 
+      Compile-AppInNavContainer -containerName $(containerName) `
+          -credential (New-Object pscredential $(containerUserName), (ConvertTo-SecureString -String $(containerPassword) -AsPlainText -Force)) `
+          -appProjectFolder $env:Build_SourcesDirectory `
+          -appOutputFolder $env:Build_StagingDirectory `
+          -UpdateSymbols `
+          -AzureDevOps `
+          -FailOn error | Out-Null
+
+- task: PublishBuildArtifacts@1
+  inputs:
+    pathtoPublish: $(Build.StagingDirectory)
+    artifactName: televisionShowApp
+
+- task: PowerShell@2
+  displayName: 'Remove container'
+  condition: always()
+  continueOnError: true
+  inputs:
+    targetType: inline
+    failOnStderr: false
+    script: 
+      Remove-NavContainer -containerName $(containerName)
