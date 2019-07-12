@@ -45,6 +45,12 @@ codeunit 50000 "Copy Transaction"
         if TempCopyTransactionArgument."Get Updated Unit Cost" then
             NewTransaction.GetLastDirectUnitCost();
         NewTransaction.Status := NewTransaction.Status::New;
+        OnBeforeInsertNewTransactionEntry(NewTransaction, TempCopyTransactionArgument);
         NewTransaction.Insert(true);
+    end;
+
+    [IntegrationEvent(false, false)]
+    local procedure OnBeforeInsertNewTransactionEntry(var NewTransaction: Record "Transaction Entry"; var TempCopyTransactionArgument: Record "Copy Transaction Argument" temporary)
+    begin
     end;
 }
