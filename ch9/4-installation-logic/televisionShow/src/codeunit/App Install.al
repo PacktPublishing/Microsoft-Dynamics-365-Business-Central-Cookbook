@@ -11,10 +11,10 @@ codeunit 50111 "App Install"
 
     local procedure EnableApplicationArea()
     var
-        EnableTvApplciationArea: Codeunit "Enable TV Application Area";
+        EnableTvApplicationArea: Codeunit "Enable TV Application Area";
     begin
-        if not EnableTvApplciationArea.IsTelevisionShowsEnabled() then
-            EnableTvApplciationArea.EnableTelevisionShows();
+        if not EnableTvApplicationArea.IsTelevisionShowsEnabled() then
+            EnableTvApplicationArea.EnableTelevisionShows();
     end;
 
     local procedure InstallTelevisionSetup()
